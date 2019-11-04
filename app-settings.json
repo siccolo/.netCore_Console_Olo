@@ -1,0 +1,5 @@
+﻿{
+    "Configuration": {
+        "DataUrl": "http://files.olo.com/pizzas.json"
+    }
+}
